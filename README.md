@@ -9,4 +9,4 @@ For furter review of app please access it here https://internship2021.mss.ba/log
 Login info (Username: admin, Password: 12345678)
 
 I would like to highliht some of tasks that I got as a back end developer: creating Assets and Products CRUD functionalities, 
-creating Authorization and authentication system, creating PDF generator for reports, creating and maintaining a Dockerfile.
+creating and maintaining database, creating Authorization and authentication system, creating PDF generator for reports, creating and maintaining a Dockerfile.
